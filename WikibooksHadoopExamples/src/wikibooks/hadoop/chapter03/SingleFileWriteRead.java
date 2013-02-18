@@ -15,7 +15,7 @@ public class SingleFileWriteRead {
 			System.exit(2);
 		}
 		
-		// 테스트
+		// 테스트2
 
 		try {
 			// 파일 시스템 제어 객체 생성
