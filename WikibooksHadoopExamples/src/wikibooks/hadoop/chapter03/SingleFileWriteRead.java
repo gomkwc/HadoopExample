@@ -14,6 +14,8 @@ public class SingleFileWriteRead {
 			System.err.println("Usage: SingleFileWriteRead <filename> <contents>");
 			System.exit(2);
 		}
+		
+		// 테스트
 
 		try {
 			// 파일 시스템 제어 객체 생성
